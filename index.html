@@ -14,7 +14,7 @@
     window.onload = function() {
         AFRAME.registerComponent('videohandler', {
             init: function () {
-                var marker = this.el.scenceEl;
+                var marker = this.el;
 
                 this.vid = document.querySelector("#vid");
 
@@ -56,7 +56,7 @@
     </style>
     
     <body style='margin : 0px; overflow: hidden;'>
-        <div class="arjs-loader">
+       <div class="arjs-nft-loaded">
             <div>Loading, please wait...</div>
         </div>
         <a-scene
