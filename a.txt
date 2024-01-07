@@ -1,0 +1,25 @@
+According to each sender, a user panel with specifications
+
+At the beginning, each seller has a certain product and a certain percentage that can be changed manually by the management
+The amount of commission for each sale is a fixed amount and can be changed
+Every seller's product can be changed manually
+The commission calculator can be increased or decreased based on speed and number
+Excel reports and invoices based on your sales
+The system of comparing sellers and scoring the seller and sellers based on the award score
+
+Installment sales system
+Each person should specify the type of installment request (promissory note, fisherman's check, bank guarantee, salary deduction certificate and without proof)
+The possibility of choosing the product on the purchase page or on the category and main page (a certain product has this feature or not)
+What is the possibility of calculating these installments based on each of the types of installments?
+Ability to upload checks and promissory notes and other documents
+  Possibility of manual or automatic check confirmation based on Qr code
+Features of the site itself
+In each product category, it is possible to separate different (based on size (medium large......) or (size 22, 28 and...)
+Any product that has different sizes (or any different features) is displayed on the photo, and the various sizes or specifications will open like a pop-up next to the photo.
+We put a multi-product product on each color, so the entire gallery photo is only of the same color.
+To select an address from the selected map, you only need to enter the license plate and unit, and it is possible to enter all the details without a map.
+To buy, first choose to enter the number and the payment page, and after payment, receive information, and when you receive the number and confirm the option of completion or payment
+It is possible to pay by card, which requires uploading a photo of the deposit slip, which will be specified by the admin in the panel if the upload is approved.
+Invoice inquiry
+In addition to the invoice with API from Lidoma panel, the postal barcode should be returned from Turking Post and show the location of the product.
+​
